@@ -1,6 +1,6 @@
 {
   "name": "@vndywhat/ckeditor-nuxt",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "author": {
     "name": "vndywhat",
@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-vue2": "^1.0.5",
-    "@vndywhat/ckeditor5-build-classic-full-with-base64-upload-and-spoiler": "^22.0.1"
+    "@vndywhat/ckeditor5-build-classic-full-with-base64-upload-and-spoiler": "^22.0.2"
   },
   "devDependencies": {
     "@vue/cli-service": "~4.3.0",
