@@ -25,8 +25,8 @@
     "build-bundle": "vue-cli-service build --target lib --name ckeditorNuxt ./src/components/index.js"
   },
   "dependencies": {
-    "@jgrayfibersmith/ckeditor5-build-classic-full-with-base64-upload": "^22.0.0",
-    "@ckeditor/ckeditor5-vue2": "^1.0.5"
+    "@ckeditor/ckeditor5-vue2": "^1.0.5",
+    "@vndywhat/ckeditor5-build-classic-full-with-base64-upload-and-spoiler": "^22.0.0"
   },
   "devDependencies": {
     "@vue/cli-service": "~4.3.0",

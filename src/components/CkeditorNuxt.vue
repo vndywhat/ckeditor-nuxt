@@ -10,7 +10,7 @@
 </template>
 <script>
 
-    import FullFreeBuildEditor from '@jgrayfibersmith/ckeditor5-build-classic-full-with-base64-upload'
+    import FullFreeBuildEditor from '@vndywhat/ckeditor5-build-classic-full-with-base64-upload-and-spoiler'
     import CKEditor from '@ckeditor/ckeditor5-vue2'
 
     export default {
